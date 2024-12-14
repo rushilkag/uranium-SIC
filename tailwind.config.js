@@ -5,7 +5,18 @@ module.exports = {
     './components/**/*.{js,ts,jsx,tsx}',
   ],
   theme: {
-    extend: { transitionDuration: { 400: '400ms' } },
+    extend: {
+      colors: {
+        greenHue: {
+          light: '#a7f3d0', // light green
+          DEFAULT: '#34d399', // base green
+          dark: '#065f46', // dark green
+        },
+      },
+      transitionDuration: { 
+        400: '400ms' 
+      },
+    },
   },
   plugins: [],
 };

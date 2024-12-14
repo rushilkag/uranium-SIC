@@ -3,14 +3,16 @@ import { useState } from 'react';
 export default function Header() {
   const [navbarOpen, setNavbarOpen] = useState(false);
   return (
+    
     <header>
+      
       <div className="flex flex-col px-4 pt-4 mx-auto text-black roboto-regular max-w-7xl md:mx-10 lg:mx-20 xl:mx-auto md:flex-row md:items-center md:justify-between">
         <div className="flex flex-row items-center justify-between p-4">
           <a
             href="/"
             className="text-4xl font-semibold tracking-tight text-transparent bg-clip-text bg-gradient-to-r from-red-300 to-amber-300 md:text-gray-900"
           >
-            Uranium
+            Sustainability Initiatives Consulting
           </a>
           <button
             className="px-3 py-1 bg-white rounded-full cursor-pointer bg-opacity-30 focus:outline-none md:hidden"
@@ -53,7 +55,7 @@ export default function Header() {
               </li>
               <li>
                 <a
-                  href="#demo"
+                  href="#dem"
                   className="text-lg text-white md:text-black hover:text-gray-300 md:hover:text-gray-700"
                 >
                   Demo
@@ -72,7 +74,7 @@ export default function Header() {
                   href="/"
                   className="bg-white rounded-full bg-opacity-40 px-4 text-lg text-white md:text-black shadow-sm transition-colors duration-75 group gap-[0.25em] inline-flex items-center py-1.5 hover:cursor-pointer hover:bg-opacity-90"
                 >
-                  Sign up
+                  Pissoff
                   <svg
                     viewBox="0 0 16 16"
                     height="1em"

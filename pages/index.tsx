@@ -14,7 +14,7 @@ const Home: NextPage = () => {
   return (
     <>
       <Head>
-        <title>Uranium – a ready-to-use website template</title>
+        <title>Sustainable Initiatives Consulting</title>
         <meta content="Example" name="description" />
         <meta property="og:url" content="example.com" />
         <meta property="og:description" content="Example" />
@@ -26,7 +26,7 @@ const Home: NextPage = () => {
         <div
           className="absolute top-0 left-0 right-0 bg-no-repeat bg-cover shadow-lg -bottom-full brightness-90 filter md:bottom-0 md:bg-center md:brightness-100"
           style={{
-            backgroundImage: "url('images/splash.jpeg')",
+            backgroundImage: "url('images/colorkit.png')",
             zIndex: -1,
           }}
         />

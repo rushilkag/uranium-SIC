@@ -6,7 +6,7 @@ const Element = styled.span`
   text-align: center;
 `;
 
-const words = ['startup.', 'website.', 'business.'];
+const words = ['Greener.', 'Cleaner.', 'Sustainable.'];
 
 class Typing extends React.Component {
   componentDidMount() {
