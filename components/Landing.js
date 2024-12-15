@@ -2,8 +2,9 @@ export default function Landing() {
   return (
     <section
       style={{
+        // Uncomment the gradient below if you'd like to use it
         //background: "linear-gradient(90deg, hsla(145, 84%, 73%, 1) 0%, hsla(150, 61%, 48%, 1) 100%)",
-        //minHeight: "100vh",
+        // minHeight: "100vh",
       }}
     >
       <div className="max-w-3xl mx-8 md:mx-auto">
@@ -42,32 +43,17 @@ export default function Landing() {
       </div>
       <div className="relative w-full px-4 text-center sm:px-0 md:mx-auto md:my-12 md:w-3/5">
         <div className="relative z-10">
-          <a
-            target="_blank"
-            rel="noreferrer"
-            href="https://godly.website"
-          >
-            <img
-              className="transition duration-700 shadow-xl rounded-xl ring-1 ring-black ring-opacity-5 hover:transform hover:scale-105"
-              src="images/product.png"
-              alt="Product Image"
-            />
-          </a>
+          {/* Placeholder for additional content if needed */}
         </div>
       </div>
       <div className="mt-20 space-y-6 text-center mb-28 md:mt-32">
         <h1 className="text-lg font-semibold tracking-wide text-center text-gray-100 text-opacity-75 uppercase md:mx-10">
-          Trusted by industry leaders
+          
         </h1>
         <div className="w-3/5 p-6 mx-auto bg-gray-100 rounded-2xl bg-opacity-70 md:bg-opacity-100 md:p-10">
           <div className="flex flex-wrap items-center justify-center flex-shrink -mt-6 -ml-6 space-x-6 space-y-6">
-            <img className="h-5 mt-6 ml-6 md:h-8" src="images/stripe.svg" alt="" />
-            <img className="h-7 md:h-5" src="images/stockx.png" alt="" />
-            <img className="h-9 md:h-6" src="images/openai.png" alt="" />
-            <img className="h-5 md:h-8" src="images/moderna.png" alt="" />
-            <img className="h-5 md:h-5" src="images/oracle.png" alt="" />
-            <img className="h-5 md:h-9" src="images/honey.png" alt="" />
-            <img className="h-5 md:h-8" src="images/digitalocean.svg" alt="" />
+            <img className="h-10 mt-6 ml-6 md:h-20" src="images/betterbroad.jpg" alt="Stripe" />
+            <img className="h-70 md:h-20" src="images/Russel Palmer.png" alt="StockX" />
           </div>
         </div>
       </div>

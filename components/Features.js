@@ -8,16 +8,12 @@ export default function Features() {
         <div className="space-y-16 md:space-y-24">
           <div className="transition duration-500 ease-in-out transform scale-100 translate-x-0 translate-y-0 opacity-100">
             <div className="space-y-5 md:text-center">
-              <div className="inline-block rounded-lg bg-[#302953] bg-opacity-60 px-3 py-1 text-sm font-semibold text-indigo-100 hover:cursor-pointer hover:bg-opacity-40">
-                Awesome Features
-              </div>
+              
               <h1 className="text-3xl font-semibold text-gray-100 md:text-5xl">
-                Decked with countless features.
+                Our Initiatives
               </h1>
               <p className="text-xl text-gray-200 md:text-2xl">
-                Each feature is specifcially made for devs and aimed
-                at making <span className="font-semibold">your</span>{' '}
-                life easier.
+                We take pride in our initiatives
               </p>
             </div>
           </div>
@@ -38,14 +34,10 @@ export default function Features() {
                 <path d="M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z"></path>
               </svg>
               <h3 className="text-xl font-semibold text-white">
-                Community
+              Sustainable Business Consulting
               </h3>
               <p className="text-gray-200">
-                Lorem ipsum dolor sit amet, consectetur adipiscing
-                elit, sed do eiusmod tempor incididunt ut labore et
-                dolore magna aliqua. Ut enim ad minim veniam, quis
-                nostrud exercitation ullamco laboris nisi ut aliquip
-                ex ea commodo consequat.
+              Partner with local businesses to assess their environmental impact and provide actionable, cost-effective strategies to reduce carbon footprints and enhance sustainability.
               </p>
             </div>
             <div className="flex shadow-md hover:shadow-[#00e4ff] flex-col justify-between p-5 transition duration-400 bg-white bg-opacity-20 rounded-xl card-hover group space-y-5">
@@ -65,14 +57,10 @@ export default function Features() {
                 <path d="M13.73 21a2 2 0 0 1-3.46 0"></path>
               </svg>
               <h3 className="text-xl font-semibold text-white">
-                The latest Trends
+              Industry Insights
               </h3>
               <p className="text-gray-200">
-                Lorem ipsum dolor sit amet, consectetur adipiscing
-                elit, sed do eiusmod tempor incididunt ut labore et
-                dolore magna aliqua. Ut enim ad minim veniam, quis
-                nostrud exercitation ullamco laboris nisi ut aliquip
-                ex ea commodo consequat.
+              Description: Host sessions analyzing the latest trends in green consulting, such as circular economy practices, renewable energy adoption, and ESG (Environmental, Social, Governance) reporting.
               </p>
             </div>
             <div className="flex shadow-md hover:shadow-[#00e4ff] flex-col justify-between p-5 transition duration-400 bg-white bg-opacity-20 rounded-xl card-hover group space-y-5">
@@ -95,14 +83,10 @@ export default function Features() {
                 <line x1="14" y1="1" x2="14" y2="4"></line>
               </svg>
               <h3 className="text-xl font-semibold text-white">
-                One coffee is all it'll take
+                Impact
               </h3>
               <p className="text-gray-200">
-                Lorem ipsum dolor sit amet, consectetur adipiscing
-                elit, sed do eiusmod tempor incididunt ut labore et
-                dolore magna aliqua. Ut enim ad minim veniam, quis
-                nostrud exercitation ullamco laboris nisi ut aliquip
-                ex ea commodo consequat.
+              Develop rapid, high-impact sustainability plans for organizations looking for immediate improvements in areas like waste management or energy efficiency.
               </p>
             </div>
             <div className="flex shadow-md hover:shadow-[#00e4ff] flex-col justify-between p-5 transition duration-400 bg-white bg-opacity-20 rounded-xl card-hover group space-y-5">
@@ -122,14 +106,10 @@ export default function Features() {
                 <circle cx="12" cy="12" r="3"></circle>
               </svg>
               <h3 className="text-xl font-semibold text-white">
-                Stunning, beautiful look
+              Innovative Case Studies
               </h3>
               <p className="text-gray-200">
-                Lorem ipsum dolor sit amet, consectetur adipiscing
-                elit, sed do eiusmod tempor incididunt ut labore et
-                dolore magna aliqua. Ut enim ad minim veniam, quis
-                nostrud exercitation ullamco laboris nisi ut aliquip
-                ex ea commodo consequat.
+              Analyze real-world case studies of successful sustainable transformations and apply lessons learned to local projects and simulations.
               </p>
             </div>
             <div className="flex shadow-md hover:shadow-[#00e4ff] flex-col justify-between p-5 transition duration-400 bg-white bg-opacity-20 rounded-xl card-hover group space-y-5">
@@ -151,14 +131,10 @@ export default function Features() {
                 <line x1="8" y1="23" x2="16" y2="23"></line>
               </svg>
               <h3 className="text-xl font-semibold text-white">
-                Suggestions are welcome
+              Brainstorming Green Initiatives
               </h3>
               <p className="text-gray-200">
-                Lorem ipsum dolor sit amet, consectetur adipiscing
-                elit, sed do eiusmod tempor incididunt ut labore et
-                dolore magna aliqua. Ut enim ad minim veniam, quis
-                nostrud exercitation ullamco laboris nisi ut aliquip
-                ex ea commodo consequat.
+              Encourage members to brainstorm and pitch innovative sustainability solutions for mock clients or existing organizations, simulating consulting engagements.
               </p>
             </div>
             <div className="flex shadow-md hover:shadow-[#00e4ff] flex-col justify-between p-5 transition duration-400 bg-white bg-opacity-20 rounded-xl card-hover group space-y-5">
@@ -180,14 +156,10 @@ export default function Features() {
                 <path d="M16 3.13a4 4 0 0 1 0 7.75"></path>
               </svg>
               <h3 className="text-xl font-semibold text-white">
-                Get users, fast.
+                Results
               </h3>
               <p className="text-gray-200">
-                Lorem ipsum dolor sit amet, consectetur adipiscing
-                elit, sed do eiusmod tempor incididunt ut labore et
-                dolore magna aliqua. Ut enim ad minim veniam, quis
-                nostrud exercitation ullamco laboris nisi ut aliquip
-                ex ea commodo consequat.
+              Teach members to measure and track sustainability metrics like energy use, carbon emissions, and waste diversion to craft data-driven recommendations for clients.
               </p>
             </div>
           </div>

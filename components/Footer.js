@@ -10,13 +10,10 @@ export default function Footer() {
           </div>
         </div>
         <p className="-mt-8 text-center text-gray-300">
-          Made with ♡ by{' '}
-          <a
-            href="https://saurish.com/?utm_source=uranium"
-            className="underline"
-          >
-            Saurish
-          </a>
+          Made by Rushil Kagithala      
+          
+            
+      
           . &copy; Uranium 2022. All rights reserved.
         </p>
       </div>
